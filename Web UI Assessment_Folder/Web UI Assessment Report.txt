@@ -1,0 +1,237 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Web UI Assessment.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 414 px x 1540 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Playfair Display Regular (Adobe Fonts)
+Playfair Display Italic (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Arial (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-07.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3071K, 1365 by 768 pixels
+Dimensions: 1919.887 by 1080.2 points 
+Resolution: 51.191 by 51.191 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-03.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 415.64 by 277.575 points 
+Resolution: 199.211 by 199.211 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 267.34 by 178.536 points 
+Resolution: 309.718 by 309.718 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-05.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 267.736 by 178.491 points 
+Resolution: 309.798 by 309.798 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-02.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 266.268 by 177.512 points 
+Resolution: 311.506 by 311.506 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-01.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2589K, 1151 by 768 pixels
+Dimensions: 269.001 by 179.49 points 
+Resolution: 308.073 by 308.073 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-06.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 414.719 by 276.479 points 
+Resolution: 200 by 200 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-03.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 415.64 by 277.575 points 
+Resolution: 199.211 by 199.211 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 267.34 by 178.536 points 
+Resolution: 309.718 by 309.718 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-05.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 267.736 by 178.491 points 
+Resolution: 309.798 by 309.798 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 1307.493 by 873.178 points 
+Resolution: 63.327 by 63.327 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 307.552 by 205.391 points 
+Resolution: 269.223 by 269.223 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-05.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 308.008 by 205.339 points 
+Resolution: 269.291 by 269.291 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-02.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 306.32 by 204.213 points 
+Resolution: 270.776 by 270.776 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-01.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2589K, 1151 by 768 pixels
+Dimensions: 309.464 by 206.488 points 
+Resolution: 267.792 by 267.792 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 307.552 by 205.391 points 
+Resolution: 269.223 by 269.223 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 373.966 by 249.744 points 
+Resolution: 221.41 by 221.41 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-07.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3071K, 1365 by 768 pixels
+Dimensions: 413.976 by 232.918 points 
+Resolution: 237.405 by 237.405 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 370.951 by 247.731 points 
+Resolution: 223.21 by 223.21 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-04.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2587K, 1150 by 768 pixels
+Dimensions: 146.928 by 98.123 points 
+Resolution: 563.539 by 563.539 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-05.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 147.146 by 98.098 points 
+Resolution: 563.684 by 563.684 pixels per inch
+
+
+C:\Users\asus\Downloads\Web UI Assessment_Folder\Assets\image-02.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2592K, 1152 by 768 pixels
+Dimensions: 146.34 by 97.56 points 
+Resolution: 566.791 by 566.791 pixels per inch
